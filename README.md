@@ -37,9 +37,7 @@ ops-learning-journey/
 │ ├── docker-compose-app/
 │ └── k8s-nginx-deployment/
 └── README.md # 本文件
-text
 
-编辑
 
 
 
